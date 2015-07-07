@@ -2,3 +2,4 @@
 echo -e "\e[43m---------------------------"
 echo -e "\e[93mThis is the pre-test test"
 echo -e "\e[43m---------------------------"
+exit 1
